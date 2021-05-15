@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="home_screen_title_text">Home</string>
+    <string name="detail_screen_title_text">Details</string>
+    <string name="no_network_available">No network Available</string>
+    <string name="error_occurred">Error Occurred!</string>
+    <string name="comments">comments</string>
+</resources>
